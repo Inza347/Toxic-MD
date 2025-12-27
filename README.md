@@ -1,107 +1,197 @@
-# `𝙏𝙤𝙭𝙞𝙘 𝙈𝘿 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽𝙤𝙩`
+---
+
+## `𝙏𝙤𝙭𝙞𝙘 𝙈𝘿 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽𝙤𝙩`
+
+<p align="center">
+  <b>A powerful, simple & user-friendly WhatsApp Multi-Device Bot</b><br>
+  Built for group control, automation and fun 🚀
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xhclintohn/Toxic-MD/main/xh_clinton/IMG-20251220-WA0025.jpg" width="100%" />
+</p>
 
 ---
 
-Welcome to **Toxic MD**! 
+## ✅ About Toxic-MD
+
+**Toxic-MD** is a modern WhatsApp bot built using **Baileys Multi-Device**.  
+It helps you manage groups, automate tasks, protect chats, and enjoy fun commands — all in one bot.
+
+### 🔹 Key Highlights
+- ✔ Multi-Device Support (No constant QR scan)
+- ✔ Fast & Stable
+- ✔ Easy to Deploy
+- ✔ Beginner Friendly
+- ✔ Works on any hosting platform
 
 ---
 
-### `NT`
+## 🚀 Deploy the Bot (Very Easy)
 
-- ✓ **Multi-Device Enabled**  
-- ✓ **Baileys Powered**  
-  
-
-
-![Banner](https://i.imgur.com/FkPuFOj.jpeg)
+### 🔹 Step 1: Fork the Repository  
+[![TAP HERE TO FORK](https://img.shields.io/badge/TAP%20HERE%20TO-FORK%20REPO-brightgreen?style=for-the-badge&logo=github)](https://github.com/xhclintohn/Toxic-MD/fork)
 
 ---
 
----
-
----
-## 🚀 Steps to Deploy
-
-1. **Fork the Repository**  
-   - [![Fork Toxic-MD Here](https://img.shields.io/badge/Fork%20Toxic--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/xhclintohn/Toxic-MD/fork)
-
-
-2. **Pairing etc**  
-   - [![Link with WhatsApp](https://img.shields.io/badge/Scan%20QR%20Code-Click%20Here-brightblue?style=for-the-badge&logo=qrcode)](https://toxicmdforkcheck.vercel.app/)
-
-
-3. **Deploy**  
-   - [![DEPLOY NOW](https://img.shields.io/badge/DEPLOY%20NOW-Click%20Here-brightorange?style=for-the-badge&logo=rocket)](https://toxicmdforkcheck.vercel.app/)
+### 🔹 Step 2: Pair WhatsApp  
+[![TAP HERE TO PAIR](https://img.shields.io/badge/TAP%20HERE%20TO-SCAN%20QR-blue?style=for-the-badge&logo=qrcode)](https://toxicmdforkcheck.vercel.app/)
 
 ---
 
-
-## 🔗 Essential Links  
-
-- **Developer Contact**  
-  [![WhatsApp](https://img.shields.io/badge/Contact%20Developer-**Click%20Here**-brightgreen?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?phone=254735342808)
-
---- 
-
+### 🔹 Step 3: Deploy the Bot  
+[![TAP HERE TO DEPLOY](https://img.shields.io/badge/TAP%20HERE%20TO-DEPLOY%20BOT-orange?style=for-the-badge&logo=rocket)](https://toxicmdforkcheck.vercel.app/)
 
 ---
+
+## 🌍 Community & Support
+
+### 🔹 Join Official WhatsApp Group  
+[![TAP HERE TO JOIN GROUP](https://img.shields.io/badge/TAP%20HERE%20TO-JOIN%20WHATSAPP%20GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GoXKLVJgTAAC3556FXkfFI)
+
+### 🔹 Contact the Developer  
+[![TAP HERE TO CONTACT DEV](https://img.shields.io/badge/TAP%20HERE%20TO-CONTACT%20DEVELOPER-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=254735342808)
 
 ---
 
 ## ⚡ Quick Start
 
-> **Note:** This script is now deployable on any platform ❗
+### 🔹 Get Session ID
 
+Visit: https://toxicpairing.site Open WhatsApp → Linked Devices → Pair
 
-[![Click Here to Watch Turtorial](https://img.shields.io/badge/-Watch%20Video%20if%20you%20don't%20know%20how%20to%20pair-red?style=for-the-badge&logo=youtube)](https://youtube.com/@xh_clinton)
-
-
-**Get Session ID:**
-
-    ```
-    Visit: https://toxicpairing.site
-    Pair with WhatsApp via > Linked Devices
-    ```
-
-
-3. **Configure:**
-    ```env or Vars 
-    SESSION_ID=YOUR_SCANNED_SESSION
-    PREFIX=.
-    ```
+### 🔹 Environment Variables
+```env
+SESSION_ID=YOUR_SCANNED_SESSION
+PREFIX=.
+```
 
 ---
 
-## 🛡️ Safety Notice
-> ⚠️ **Important:** Using unofficial WhatsApp APIs may violate Terms of Service. This is a **self-hosted** project - the developer is not responsible for account bans.
+## `✨ Bot Features ;)`
 
-**Protection Tips:**
-- Use a secondary number
-- Enable 2FA on WhatsApp
-- Avoid spam behavior ([WhatsApp Policy](https://www.whatsapp.com/legal))
+🤖 Automation Features
 
----
+Auto Read Messages
 
----
+Auto Blue Tick
 
-## 🚀 Advanced WhatsApp Features  
+Auto View Status
 
-| Category       | Features                  |  
-|----------------|---------------------------|  
-| **Automation** | Auto Blue Tick, Auto Status View, Auto Like Status |  
-| **Fun**       | Memes, Quotes, Games      |  
-| **Utilities** | QR Generator, Sticker Maker |  
-| **Moderation**| Group management |  
+Auto Like Status
+
+Custom Auto Replies
+
+
 
 ---
 
+🛡️ Group Protection & Moderation
 
-## 📌 Troubleshooting
-**Common Issues:**
-1. Session Expired? Reconnect again!
+Anti-Link (Blocks WhatsApp & External links)
 
-2. Bot not responding? Check server logs if you don't understand logs reach out to me on Whatsapp 
+Anti-Delete Messages (Retrieve deleted messages)
 
-3. Getting banned? Reduce message frequency and maybe switch to private mode. 
+View-Once Media Recovery
 
+Anti-Status Mention
+
+Welcome & Goodbye Messages
+
+Admin-Only Commands
+
+Auto Warn & Auto Kick System
+
+
+
+---
+
+⚙️ Useful Tools
+
+Sticker Maker (Image / Video / GIF)
+
+QR Code Generator
+
+Media Downloader
+
+Profile & Group Info Commands
+
+
+
+---
+
+🎮 Fun Commands
+
+Random Memes
+
+Quotes & Facts
+
+Mini Games
+
+AI-Style Chat Commands
+
+
+
+---
+
+⚡ System Controls
+
+Public / Private Mode
+
+Bot Ping & Status
+
+Restart Bot
+
+Menu & Help Commands
+
+
+
+---
+
+🛡️ Safety Notice
+
+> ⚠️ Using unofficial WhatsApp APIs may violate WhatsApp Terms of Service.
+This project is self-hosted.
+
+
+
+✔ Stay Safe
+
+Use a secondary WhatsApp number
+
+Enable Two-Step Verification
+
+Avoid spamming commands
+
+
+
+---
+
+📌 Troubleshooting
+
+Session expired? → Re-pair WhatsApp
+
+Bot not responding? → Check server logs
+
+Ban warning? → Reduce automation & use private mode
+
+
+
+---
+
+📚 Disclaimer
+
+> ⚠️ All features of Toxic-MD are provided strictly for educational purposes only.
+The developer is not responsible for misuse, bans, or policy violations.
+
+
+
+
+---
+
+<p align="center">
+  <b>🔥 Toxic-MD — Simple • Powerful • Educational 🔥</b>
+</p>
+
+---
 
